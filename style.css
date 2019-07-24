@@ -1,0 +1,31 @@
+body {
+	background-color: white;
+	font-family: 'Raleway';
+	margin: 0;
+}
+
+.container {
+	margin: auto;
+	padding: 0 7px 0 7px;
+	width: 100%;
+	max-width: 1152px;
+	text-align: center;
+}
+
+.note {
+	background-color: #eee;
+	border: 0.75px solid #ddd;
+	margin: auto;
+	font-family: 'Ubuntu Mono', monospace;
+	max-width: 594px;
+}
+
+a {
+	color:#19a7d1;
+	font-family: 'Roboto';
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
