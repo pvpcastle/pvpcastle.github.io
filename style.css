@@ -16,13 +16,14 @@ body {
 	background-color: #eee;
 	border: 0.75px solid #ddd;
 	margin: auto;
-	font-family: 'Ubuntu Mono', monospace !important;
+	font-family: 'Ubuntu Mono', monospace;
 	max-width: 594px;
 }
 
 .note a {
 	color:#19a7d1;
 	text-decoration: none;
+	font-family: 'Ubuntu Mono', monospace;
 }
 
 .container a {
